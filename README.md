@@ -5,7 +5,7 @@
 - 🎓 I'm currently studying in **University Technology Malaysia**
 - 🔭 I’m currently working on SECB3203-01 PROGRAMMING FOR BIOINFORMATICS Project
 - 🌱 I’m currently learning Python
-- 👯 I’m looking to collaborate on similar Bioinformatics Prohect
+- 👯 I’m looking to collaborate on similar Bioinformatics Project
 - 🤔 I’m looking for help with Python
 - 💬 Ask me about C++, Java, Linux, JavaScript or HTML
 - 📫 How to reach me: muhammadizat@graduate.utm.my
