@@ -16,16 +16,14 @@
 
 ## 📊 GitHub Stats:
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your_username&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=muhammadizat&show_icons=true&theme=tokyonight)
 
 ## 📈 Top Languages:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your_username&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadizat&theme=tokyonight)
 
 ## 🤝 Connect with me:
 
-[<img align="left" alt="your_username | LinkedIn" width="22px" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/icons/linkedin.png" />][linkedin]
-[<img align="left" alt="your_username | Twitter" width="22px" src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/icons/twitter.png" />][twitter]
+[<img align="left" alt="your_username | Facebook" width="22px" src="https://icons8.com/icon/13912/facebook" />][facebook]
 
-[linkedin]: https://linkedin.com/in/your_username
-[twitter]: https://twitter.com/your_username
+[facebook]: https://[linkedin.co](https://www.facebook.com/)https://www.facebook.com/m/in/muhammadizat
