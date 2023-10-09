@@ -21,9 +21,3 @@
 ## 📈 Top Languages:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadizat&theme=tokyonight)
-
-## 🤝 Connect with me:
-
-[<img align="left" alt="your_username | Facebook" width="22px" src="https://icons8.com/icon/13912/facebook" />][facebook]
-
-[facebook]: https://[linkedin.co](https://www.facebook.com/)https://www.facebook.com/m/in/muhammadizat
